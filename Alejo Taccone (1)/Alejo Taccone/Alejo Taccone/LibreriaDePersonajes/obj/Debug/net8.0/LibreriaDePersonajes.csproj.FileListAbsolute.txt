@@ -1,0 +1,22 @@
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\bin\Debug\net8.0\LibreriaDePersonajes.deps.json
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\bin\Debug\net8.0\LibreriaDePersonajes.dll
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\bin\Debug\net8.0\LibreriaDePersonajes.pdb
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.dll
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\refint\LibreriaDePersonajes.dll
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.pdb
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\ref\LibreriaDePersonajes.dll
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\bin\Debug\net8.0\LibreriaDePersonajes.deps.json
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\bin\Debug\net8.0\LibreriaDePersonajes.dll
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\bin\Debug\net8.0\LibreriaDePersonajes.pdb
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.dll
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\refint\LibreriaDePersonajes.dll
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\LibreriaDePersonajes.pdb
+C:\Users\Usuario\Desktop\Alejo Taccone (1)\Alejo Taccone\Alejo Taccone\LibreriaDePersonajes\obj\Debug\net8.0\ref\LibreriaDePersonajes.dll
