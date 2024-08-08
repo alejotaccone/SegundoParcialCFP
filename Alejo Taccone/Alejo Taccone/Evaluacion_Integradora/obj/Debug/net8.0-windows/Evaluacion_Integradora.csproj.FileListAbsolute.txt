@@ -1,0 +1,40 @@
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.exe
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.deps.json
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.runtimeconfig.json
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.dll
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.pdb
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.FormPrincipal.resources
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.Properties.Resources.resources
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.csproj.GenerateResource.cache
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.AssemblyInfoInputs.cache
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.AssemblyInfo.cs
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.dll
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\refint\Evaluacion_Integradora.dll
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.pdb
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.genruntimeconfig.cache
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\ref\Evaluacion_Integradora.dll
+C:\Users\ezequiel.taboada\Desktop\esqueleto\Reemplazar_Con_Tu_Nombre_Y_Apellido\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.FormCrear.resources
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.exe
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.deps.json
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.runtimeconfig.json
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.dll
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\bin\Debug\net8.0-windows\Evaluacion_Integradora.pdb
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\bin\Debug\net8.0-windows\LibreriaDePersonajes.dll
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\bin\Debug\net8.0-windows\LibreriaDePersonajes.pdb
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.FormCrear.resources
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.FormPrincipal.resources
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluaci.E375AD9C.Up2Date
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.dll
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\refint\Evaluacion_Integradora.dll
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.pdb
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\Evaluacion_Integradora.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Alejo Taccone\Alejo Taccone\Evaluacion_Integradora\obj\Debug\net8.0-windows\ref\Evaluacion_Integradora.dll

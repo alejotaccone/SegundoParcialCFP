@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evaluacion_Integradora/1.0.0": {
+        "dependencies": {
+          "LibreriaDePersonajes": "1.0.0"
+        },
+        "runtime": {
+          "Evaluacion_Integradora.dll": {}
+        }
+      },
+      "LibreriaDePersonajes/1.0.0": {
+        "runtime": {
+          "LibreriaDePersonajes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evaluacion_Integradora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDePersonajes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
